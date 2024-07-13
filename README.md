@@ -2,6 +2,7 @@
 <p>Im a 3+ years software engineer and currently working in Singapore.</p>
 
 - 👨‍💻 All of my projects are available at [https://melvin-portofolio.vercel.app/](https://melvin-portofolio.vercel.app/)
+- 🙌 Lets connect on LinkedIn: [https://melvin-portofolio.vercel.app/](https://melvin-portofolio.vercel.app/)
 - 📚 Im intrested in AI, UI/UX and software architecture
 - ⚡ Im fluent in Javascript
 
