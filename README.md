@@ -1,5 +1,5 @@
 <h1>Hi There, I'm Melvin Jovano</h1>
-<p>Im a 3+ years software engineer and currently working in Singapore.</p>
+<p>Im a 4+ years software engineer and currently working in Singapore.</p>
 
 - 👨‍💻 All of my projects are available at [https://melvin-portofolio.vercel.app/](https://melvin-portofolio.vercel.app/)
 - 🙌 Lets connect on LinkedIn: [https://linkedin.com/in/melvin-jovano](https://linkedin.com/in/melvin-jovano)
